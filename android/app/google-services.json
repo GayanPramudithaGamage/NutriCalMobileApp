@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002847016554",
+    "project_id": "nutrical-8c6c1",
+    "storage_bucket": "nutrical-8c6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002847016554:android:0d0611b74e8fdbe089dc13",
+        "android_client_info": {
+          "package_name": "com.IIT.NutriCal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqdKbGwSLc84HalxHNCsCcOz39Gi-5NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002847016554:android:ddb6d9b006772d6c89dc13",
+        "android_client_info": {
+          "package_name": "com.example.test_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqdKbGwSLc84HalxHNCsCcOz39Gi-5NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
